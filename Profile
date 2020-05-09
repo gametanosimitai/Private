@@ -1,0 +1,2 @@
+worker1：python zatu.py
+タンク1。py
